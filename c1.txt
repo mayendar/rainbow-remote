@@ -1,2 +1,3 @@
 hello
 its first text file to commit in repo.
+its from echo commond
